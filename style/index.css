@@ -166,11 +166,10 @@ header .d-flex{
 }
 
 .section-3-header-text {
-    padding-bottom: 28px;
+    margin-bottom: 28px;
     font-size: 23px;
     font-weight: 400;
     line-height: 36px;
-    letter-spacing: 0em;
     text-align: center;
 }
 
@@ -185,7 +184,7 @@ header .d-flex{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 48px 0 74px;
+    margin: 43px 0 74px;
 }
 
 .section-3-card {
@@ -197,11 +196,10 @@ header .d-flex{
 }
 
 .section-3-card-title {
-    margin: 20px 0 10px;
+    margin: 38px 0 20px;
     font-size: 16px;
     font-weight: 400;
     line-height: 20px;
-    letter-spacing: 0em;
     text-align: center;
     text-transform: uppercase;
 }
@@ -226,7 +224,6 @@ header .d-flex{
     font-size: 15px;
     font-weight: 400;
     line-height: 22px;
-    letter-spacing: 0em;
     text-align: center;
 
 }
